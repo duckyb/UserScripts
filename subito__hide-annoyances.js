@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         Subito.it improvements
 // @namespace    http://subito.it/
-// @version      2024-07-30-12-22
+// @version      2024-07-30-12-30
 // @description  Hide annoying elements on Subito.it
 // @author       duckyb
 // @match        https://www.subito.it/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=subito.it
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/duckyb/UserScripts/main/subito__hide-annoyances.js
 // @updateURL    https://raw.githubusercontent.com/duckyb/UserScripts/main/subito__hide-annoyances.js
 // ==/UserScript==
 
@@ -30,7 +31,7 @@ function hideSnackBar() {
   snackBar.setAttribute('style', 'display: none !important');
 }
 
-function hideSoldItems() {
+function hideUselessCards() {
   const cards = document.querySelectorAll(CARD);
   if (!cards) return;
   cards.forEach((card) => {
@@ -44,7 +45,7 @@ function hideSoldItems() {
 function hideAnnoyances() {
   hideAdWrappers();
   hideSnackBar();
-  hideSoldItems();
+  hideUselessCards();
 }
 
 (function () {
