@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Subito.it improvements
 // @namespace    http://subito.it/
-// @version      2024-07-30
+// @version      2024-07-30-12-22
 // @description  Hide annoying elements on Subito.it
 // @author       duckyb
 // @match        https://www.subito.it/*
