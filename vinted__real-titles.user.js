@@ -29,7 +29,7 @@ function updateTitle() {
       ?.getAttribute('title');
     // Extract only the real title before "Condizioni:"
     const actualTitle = actualTitleLong
-      ? actualTitleLong.match(/^(.*?)\s*, [condizioni|brand]:/i)?.[1].trim() ||
+      ? actualTitleLong.match(/^(.*?)\s*, (condizioni|brand):/i)?.[1].trim() ||
         actualTitleLong.trim()
       : '';
     if (
