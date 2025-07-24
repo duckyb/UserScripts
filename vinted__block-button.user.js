@@ -8,6 +8,7 @@
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/duckyb/UserScripts/main/vinted__block-button.user.js
 // @updateURL    https://raw.githubusercontent.com/duckyb/UserScripts/main/vinted__block-button.user.js
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=vinted.it
 // ==/UserScript==
 
 // --- Constants ---

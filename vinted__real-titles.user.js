@@ -8,6 +8,7 @@
 // @description Add a real title to the product details page on Vinted
 // @downloadURL  https://raw.githubusercontent.com/duckyb/UserScripts/main/vinted__real-titles.user.js
 // @updateURL    https://raw.githubusercontent.com/duckyb/UserScripts/main/vinted__real-titles.user.js
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=vinted.it
 // ==/UserScript==
 
 const BOX_CONTAINER = '.new-item-box__container';
