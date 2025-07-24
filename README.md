@@ -10,13 +10,13 @@ Questa repository contiene userscript per migliorare la propria esperienza su Vi
 
 Aggiunge un pulsante blocca utente direttamente nella pagina di dettaglio dei prodotti, in modo da non dover neanche visitare la pagina del profilo dell'utente.
 
-[![Installa: Vinted Block User on Product Page](https://img.shields.io/badge/Install-UserScript-brightgreen?style=for-the-badge&logo=addthis)](https://raw.githubusercontent.com/duckyb/UserScripts/main/vinted__block-button.js)
+[![Installa: Vinted Block User on Product Page](https://img.shields.io/badge/Install-UserScript-brightgreen?style=for-the-badge&logo=addthis)](https://raw.githubusercontent.com/duckyb/UserScripts/main/vinted__block-button.user.js)
 
 ### Titoli Reali
 
 Se il titolo di un prodotto nella pagina di ricerca non corrisponde a quello presente nella pagina di dettaglio, questo script lo sostituirà con quello reale.
 
-[![Installa: Vinted Titoli Reali](https://img.shields.io/badge/Install-UserScript-brightgreen?style=for-the-badge&logo=addthis)](https://raw.githubusercontent.com/duckyb/UserScripts/main/vinted__real-titles.js)
+[![Installa: Vinted Titoli Reali](https://img.shields.io/badge/Install-UserScript-brightgreen?style=for-the-badge&logo=addthis)](https://raw.githubusercontent.com/duckyb/UserScripts/main/vinted__real-titles.user.js)
 
 ---
 
@@ -26,7 +26,7 @@ Se il titolo di un prodotto nella pagina di ricerca non corrisponde a quello pre
 
 Nasconde elementi inutili come gli annunci già venduti, i banner pubblicitari e altro.
 
-[![Installa: Subito Nascondi Elementi Inutili](https://img.shields.io/badge/Install-UserScript-brightgreen?style=for-the-badge&logo=addthis)](https://raw.githubusercontent.com/duckyb/UserScripts/main/subito__hide-annoyances.js)
+[![Installa: Subito Nascondi Elementi Inutili](https://img.shields.io/badge/Install-UserScript-brightgreen?style=for-the-badge&logo=addthis)](https://raw.githubusercontent.com/duckyb/UserScripts/main/subito__hide-annoyances.user.js)
 
 ---
 
