@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Vinted Block User on Product Page
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Add a 'Blocca utente' button to block the seller directly from the product details page on Vinted
-// @author       -
+// @author       duckyb
 // @match        https://www.vinted.it/items/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=vinted.it
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/duckyb/UserScripts/main/vinted__block-button.user.js
 // @updateURL    https://raw.githubusercontent.com/duckyb/UserScripts/main/vinted__block-button.user.js
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=vinted.it
 // ==/UserScript==
 
 // --- Constants ---
