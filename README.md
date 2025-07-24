@@ -18,6 +18,12 @@ Se il titolo di un prodotto nella pagina di ricerca non corrisponde a quello pre
 
 [![Installa: Vinted Titoli Reali](https://img.shields.io/badge/Install-UserScript-brightgreen?style=for-the-badge&logo=addthis)](https://raw.githubusercontent.com/duckyb/UserScripts/main/vinted__real-titles.user.js)
 
+### Buybox Personalizzato
+
+Aggiunge una card personalizzata nella sidebar della pagina di dettaglio prodotto con informazioni complete su prezzo, spedizione, protezione acquisti e azioni rapide.
+
+[![Installa: Vinted Buybox](https://img.shields.io/badge/Install-UserScript-brightgreen?style=for-the-badge&logo=addthis)](https://raw.githubusercontent.com/duckyb/UserScripts/main/vinted__buybox.user.js)
+
 ---
 
 ## <img src="/assets/Subito_logo.png" alt="Subito Logo" width="140px"/>
