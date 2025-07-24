@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Vinted Real Titles
 // @namespace    Violentmonkey Scripts
-// @version      1.1
+// @version      1.2
 // @description  Add a real title to the product details page on Vinted
 // @author       duckyb
 // @match        https://www.vinted.it/catalog*
@@ -29,7 +29,7 @@ function updateTitle() {
       ?.getAttribute('title');
     // Extract only the real title before "Condizioni:"
     const actualTitle = actualTitleLong
-      ? actualTitleLong.match(/^(.*?)\s*, condizioni:/i)?.[1].trim() ||
+      ? actualTitleLong.match(/^(.*?)\s*, [condizioni|brand]:/i)?.[1].trim() ||
         actualTitleLong.trim()
       : '';
     if (
