@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Vinted Real Titles
 // @namespace    Violentmonkey Scripts
-// @version      1.2
+// @version      1.3
 // @description  Add a real title to the product details page on Vinted
 // @author       duckyb
 // @match        https://www.vinted.it/catalog*
