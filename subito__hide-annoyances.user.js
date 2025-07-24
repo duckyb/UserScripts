@@ -7,8 +7,8 @@
 // @match        https://www.subito.it/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=subito.it
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/duckyb/UserScripts/main/subito__hide-annoyances.js
-// @updateURL    https://raw.githubusercontent.com/duckyb/UserScripts/main/subito__hide-annoyances.js
+// @downloadURL  https://raw.githubusercontent.com/duckyb/UserScripts/main/subito__hide-annoyances.user.js
+// @updateURL    https://raw.githubusercontent.com/duckyb/UserScripts/main/subito__hide-annoyances.user.js
 // ==/UserScript==
 
 const AD_WRAPPER = '[id^="ad_wrapper_"]';

@@ -6,8 +6,8 @@
 // @author       -
 // @match        https://www.vinted.it/items/*
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/duckyb/UserScripts/main/vinted__block-button.js
-// @updateURL    https://raw.githubusercontent.com/duckyb/UserScripts/main/vinted__block-button.js
+// @downloadURL  https://raw.githubusercontent.com/duckyb/UserScripts/main/vinted__block-button.user.js
+// @updateURL    https://raw.githubusercontent.com/duckyb/UserScripts/main/vinted__block-button.user.js
 // ==/UserScript==
 
 // --- Constants ---

@@ -6,8 +6,8 @@
 // @version     1.0
 // @author      -
 // @description Add a real title to the product details page on Vinted
-// @downloadURL  https://raw.githubusercontent.com/duckyb/UserScripts/main/vinted__real-titles.js
-// @updateURL    https://raw.githubusercontent.com/duckyb/UserScripts/main/vinted__real-titles.js
+// @downloadURL  https://raw.githubusercontent.com/duckyb/UserScripts/main/vinted__real-titles.user.js
+// @updateURL    https://raw.githubusercontent.com/duckyb/UserScripts/main/vinted__real-titles.user.js
 // ==/UserScript==
 
 const BOX_CONTAINER = '.new-item-box__container';
